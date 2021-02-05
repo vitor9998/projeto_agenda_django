@@ -1,0 +1,6 @@
+- Django
+- FontAwesome
+- Bootstrap
+- Pillow
+- whitenoise
+- gunicorn
